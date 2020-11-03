@@ -6,6 +6,14 @@
  
 # Screenshots
 
+![](public/assets/finalized.PNG)
+
+![](public/assets/inputing-transaction.PNG)
+
+![](public/assets/webpage.PNG)
+
+
+
 
 # Video Link
 click here to veiw demo https://youtu.be/jjRjr_bkBQM
